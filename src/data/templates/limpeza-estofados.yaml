@@ -1,0 +1,84 @@
+# Template de nicho: Limpeza de Estofados
+id: limpeza-estofados
+name: Limpeza de Estofados
+description: "Site pronto para empresas de limpeza e higienização de estofados, sofás e colchões"
+icon: "🛋️"
+color: "#8b5cf6"
+
+niche:
+  name: Limpeza de Estofados
+  slug: limpeza-estofados
+  icon: "🛋️"
+  description: "Higienização e limpeza profissional de sofás, colchões e estofados"
+  color: "#8b5cf6"
+  active: true
+
+homeCopy:
+  heroBadge: "🛋️ Limpeza de Estofados em Bauru"
+  heroTitle: "Limpeza de Estofados"
+  heroTitleHighlight: "em Bauru SP"
+  heroSubtitle: "Higienização profissional de sofás, colchões, cadeiras e estofados em geral. Produto bactericida, secagem rápida e atendimento em domicílio."
+  heroCtaText: "Chamar no WhatsApp"
+  heroCtaSecondaryText: "Ver serviços"
+  heroWhatsappMessage: "Olá! Gostaria de fazer um orçamento para limpeza de estofado. Vocês atendem em domicílio?"
+  servicesTitle: "Serviços de Limpeza"
+  servicesSubtitle: "Higienização profunda para sua casa"
+  aboutTitle: "Referência em Limpeza de Estofados em Bauru"
+  aboutSubtitle: "Equipamentos profissionais e produtos bactericidas"
+  aboutText: "Somos especializados na higienização de sofás, colchões, cadeiras e estofados em geral. Utilizamos equipamentos de extração a vapor e produtos bactericidas certificados. Atendemos em domicílio em Bauru e região com secagem rápida."
+  aboutStats:
+    - number: "10+"
+      label: Anos de experiência
+    - number: "5000+"
+      label: Estofados higienizados
+    - number: "2h"
+      label: Secagem rápida
+
+locationTemplateCopy:
+  heroTitle: "{servico} em {cidade} - {estado}"
+  heroSubtitle: "Higienização profissional de {servico} em {cidade}. Atendimento em domicílio."
+  pageContent: "Procurando {servico} em {cidade}? A {empresa} oferece higienização profissional com equipamentos a vapor e produtos bactericidas. Atendemos em {cidade} e região. Solicite seu orçamento!"
+  benefits:
+    - "Atendimento em domicílio em {cidade}"
+    - "Produto bactericida e antiácaro"
+    - "Secagem rápida (2 a 4h)"
+    - "Orçamento gratuito"
+  metaTitle: "{servico} em {cidade} | {empresa}"
+  metaDescription: "Precisa de {servico} em {cidade}? A {empresa} faz higienização profissional em domicílio. Ligue agora!"
+
+services:
+  - title: "Limpeza de Sofá"
+    slug: limpeza-de-sofa
+    shortDescription: "Higienização de sofás de tecido, couro e courino"
+    icon: "🛋️"
+    niche: limpeza-estofados
+  - title: "Limpeza de Colchão"
+    slug: limpeza-de-colchao
+    shortDescription: "Higienização de colchões com remoção de ácaros"
+    icon: "🛏️"
+    niche: limpeza-estofados
+  - title: "Limpeza de Cadeira"
+    slug: limpeza-de-cadeira
+    shortDescription: "Limpeza de cadeiras de escritório e jantar"
+    icon: "🪑"
+    niche: limpeza-estofados
+  - title: "Limpeza de Poltrona"
+    slug: limpeza-de-poltrona
+    shortDescription: "Higienização de poltronas de tecido e couro"
+    icon: "🛋️"
+    niche: limpeza-estofados
+  - title: "Higienização de Estofado de Carro"
+    slug: higienizacao-estofado-carro
+    shortDescription: "Limpeza de bancos e estofados automotivos"
+    icon: "🚗"
+    niche: limpeza-estofados
+  - title: "Limpeza de Tapete"
+    slug: limpeza-de-tapete
+    shortDescription: "Higienização de tapetes e carpetes"
+    icon: "🏠"
+    niche: limpeza-estofados
+  - title: "Impermeabilização de Estofado"
+    slug: impermeabilizacao-de-estofado
+    shortDescription: "Proteção contra manchas e líquidos"
+    icon: "🛡️"
+    niche: limpeza-estofados

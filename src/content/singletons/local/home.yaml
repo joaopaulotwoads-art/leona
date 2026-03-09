@@ -17,31 +17,31 @@ ctaTitle: Precisa de ajuda agora?
 ctaText: Nossa equipe está disponível para atender você. Clique abaixo e fale conosco pelo WhatsApp!
 ctaButtonText: Chamar no WhatsApp
 ctaWhatsappMessage: Olá! Gostaria de mais informações.
-heroBadge: Andaime para Obra
-heroTitle: Aluguel de Andaime
-heroTitleHighlight: em São Paulo
-heroSubtitle: Andaimes metálicos e fachadeiros para obras e serviços em altura. Montagem inclusa. Segurança garantida. Diária ou mensal.
-heroCtaText: Falar no WhatsApp
-heroCtaSecondaryText: Ver tipos
-heroWhatsappMessage: Olá! Preciso alugar andaime para minha obra. Vocês montam?
-servicesTitle: Andaimes para Locação
-servicesSubtitle: Segurança nas alturas
-aboutTitle: Referência em Aluguel de Andaime
-aboutSubtitle: Equipamentos certificados
-aboutText: Locamos andaimes metálicos, fachadeiros e móveis para obras e serviços em altura. Montagem e desmontagem por equipe treinada. Equipamentos com certificação.
+heroBadge: 🛋️ Limpeza de Estofados em Bauru
+heroTitle: Limpeza de Estofados
+heroTitleHighlight: em Bauru SP
+heroSubtitle: Higienização profissional de sofás, colchões, cadeiras e estofados em geral. Produto bactericida, secagem rápida e atendimento em domicílio.
+heroCtaText: Chamar no WhatsApp
+heroCtaSecondaryText: Ver serviços
+heroWhatsappMessage: Olá! Gostaria de fazer um orçamento para limpeza de estofado. Vocês atendem em domicílio?
+servicesTitle: Serviços de Limpeza
+servicesSubtitle: Higienização profunda para sua casa
+aboutTitle: Referência em Limpeza de Estofados em Bauru
+aboutSubtitle: Equipamentos profissionais e produtos bactericidas
+aboutText: Somos especializados na higienização de sofás, colchões, cadeiras e estofados em geral. Utilizamos equipamentos de extração a vapor e produtos bactericidas certificados. Atendemos em domicílio em Bauru e região com secagem rápida.
 aboutStats:
-  - number: 20+
+  - number: 10+
     label: Anos de experiência
-  - number: 3000+
-    label: Obras atendidas
-  - number: 100%
-    label: Segurança garantida
+  - number: 5000+
+    label: Estofados higienizados
+  - number: 2h
+    label: Secagem rápida
 featuredServices:
-  - aluguel-de-andaime
-  - aluguel-andaime-fachadeiro
-  - aluguel-andaime-movel
-  - aluguel-andaime-tubular
-  - aluguel-plataforma-elevatoria
-  - aluguel-escada-aluminio
-  - montagem-de-andaime
-activeTemplateId: aluguel-andaime
+  - limpeza-de-sofa
+  - limpeza-de-colchao
+  - limpeza-de-cadeira
+  - limpeza-de-poltrona
+  - higienizacao-estofado-carro
+  - limpeza-de-tapete
+  - impermeabilizacao-de-estofado
+activeTemplateId: limpeza-estofados

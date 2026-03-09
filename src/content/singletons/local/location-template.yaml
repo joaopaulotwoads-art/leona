@@ -1,10 +1,10 @@
 heroTitle: "{servico} em {cidade} - {estado}"
-heroSubtitle: Aluguel de {servico} em {cidade} e região. Andaimes para sua obra.
-pageContent: Procurando {servico} em {cidade}? A {empresa} oferece andaimes para locação com montagem. Atuamos em {cidade} e região. Consulte valores e disponibilidade!
+heroSubtitle: Higienização profissional de {servico} em {cidade}. Atendimento em domicílio.
+pageContent: Procurando {servico} em {cidade}? A {empresa} oferece higienização profissional com equipamentos a vapor e produtos bactericidas. Atendemos em {cidade} e região. Solicite seu orçamento!
 benefits:
-  - Montagem em {cidade}
+  - Atendimento em domicílio em {cidade}
+  - Produto bactericida e antiácaro
+  - Secagem rápida (2 a 4h)
   - Orçamento gratuito
-  - Equipe treinada
-  - Equipamentos certificados
 metaTitle: "{servico} em {cidade} | {empresa}"
-metaDescription: Aluguel de {servico} em {cidade}. A {empresa} - segurança na obra. Ligue!
+metaDescription: Precisa de {servico} em {cidade}? A {empresa} faz higienização profissional em domicílio. Ligue agora!
