@@ -36,8 +36,7 @@ const waCtaMsg    = encodeURIComponent(homeData?.ctaWhatsappMessage  || 'Olá! P
 const waHeroUrl   = whatsapp ? `https://wa.me/55${whatsapp.replace(/\D/g,'')}?text=${waHeroMsg}` : '#';
 const waCtaUrl    = whatsapp ? `https://wa.me/55${whatsapp.replace(/\D/g,'')}?text=${waCtaMsg}`  : '#';
 
-const principalSlug = await getPrincipalLocationSlug();
-const serviceBase = principalSlug ? `/${principalSlug}` : '/servicos';
+const serviceBase = '';
 
 // Cidade com mais bairros (via content layer — funciona em dev e produção)
 function slugFrom(str: string): string {

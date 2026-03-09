@@ -2,16 +2,16 @@ companyName: Minha Empresa
 companyPhone: ""
 companyWhatsapp: ""
 companyEmail: contato@minhaempresa.com.br
-companyAddress: Rua Exemplo, 123 - Bairro
-companyCity: São Paulo
+companyAddress: R. Castro Alves, 133 - Vila Industria
+companyCity: Bauru
 companyState: SP
-companyCEP: 01000-000
+companyCEP: 17000-000
 heroBackground: ""
 clients: []
 socialTitle: Empresas que confiam em nós
 socialProofActive: false
 locationTitle: Nossa Localização
-locationAddress: Rua Exemplo, 123 - Bairro - São Paulo/SP
+locationAddress: R. Castro Alves, 133 - Vila Industria - Bauru/SP
 locationMapEmbed: ""
 ctaTitle: Precisa de ajuda agora?
 ctaText: Nossa equipe está disponível para atender você. Clique abaixo e fale conosco pelo WhatsApp!
