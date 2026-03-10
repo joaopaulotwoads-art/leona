@@ -1,22 +1,11 @@
-companyName: Minha Empresa
+companyName: Limpeza de Estofados Bauru
 companyPhone: ""
 companyWhatsapp: ""
-companyEmail: contato@minhaempresa.com.br
+companyEmail: contato@limpezaestofadosbauru.com.br
 companyAddress: R. Castro Alves, 133 - Vila Industria
 companyCity: Bauru
 companyState: SP
-companyCEP: 17000-000
-heroBackground: ""
-clients: []
-socialTitle: Empresas que confiam em nós
-socialProofActive: false
-locationTitle: Nossa Localização
-locationAddress: R. Castro Alves, 133 - Vila Industria - Bauru/SP
-locationMapEmbed: ""
-ctaTitle: Precisa de ajuda agora?
-ctaText: Nossa equipe está disponível para atender você. Clique abaixo e fale conosco pelo WhatsApp!
-ctaButtonText: Chamar no WhatsApp
-ctaWhatsappMessage: Olá! Gostaria de mais informações.
+companyCEP: 17051-070
 heroBadge: 🛋️ Limpeza de Estofados em Bauru
 heroTitle: Limpeza de Estofados
 heroTitleHighlight: em Bauru SP
@@ -24,18 +13,12 @@ heroSubtitle: Higienização profissional de sofás, colchões, cadeiras e estof
 heroCtaText: Chamar no WhatsApp
 heroCtaSecondaryText: Ver serviços
 heroWhatsappMessage: Olá! Gostaria de fazer um orçamento para limpeza de estofado. Vocês atendem em domicílio?
+heroBackground: ""
+socialTitle: Empresas que confiam em nós
+socialProofActive: false
+clients: []
 servicesTitle: Serviços de Limpeza
 servicesSubtitle: Higienização profunda para sua casa
-aboutTitle: Referência em Limpeza de Estofados em Bauru
-aboutSubtitle: Equipamentos profissionais e produtos bactericidas
-aboutText: Somos especializados na higienização de sofás, colchões, cadeiras e estofados em geral. Utilizamos equipamentos de extração a vapor e produtos bactericidas certificados. Atendemos em domicílio em Bauru e região com secagem rápida.
-aboutStats:
-  - number: 10+
-    label: Anos de experiência
-  - number: 5000+
-    label: Estofados higienizados
-  - number: 2h
-    label: Secagem rápida
 featuredServices:
   - limpeza-de-sofa
   - limpeza-de-colchao
@@ -44,4 +27,22 @@ featuredServices:
   - higienizacao-estofado-carro
   - limpeza-de-tapete
   - impermeabilizacao-de-estofado
+aboutTitle: Referência em Limpeza de Estofados em Bauru
+aboutSubtitle: Equipamentos profissionais e produtos bactericidas
+aboutText: Somos especializados na higienização de sofás, colchões, cadeiras e estofados em geral. Utilizamos equipamentos de extração a vapor e produtos bactericidas certificados. Atendemos em domicílio em Bauru e região com secagem rápida.
+aboutImage: ""
+aboutStats:
+  - number: 10+
+    label: Anos de experiência
+  - number: 5000+
+    label: Estofados higienizados
+  - number: 2h
+    label: Secagem rápida
+locationTitle: Nossa Localização
+locationAddress: R. Castro Alves, 133 - Vila Industria - Bauru/SP
+locationMapEmbed: ""
+ctaTitle: Precisa de ajuda agora?
+ctaText: Nossa equipe está disponível para atender você. Clique abaixo e fale conosco pelo WhatsApp!
+ctaButtonText: Chamar no WhatsApp
+ctaWhatsappMessage: Olá! Gostaria de mais informações.
 activeTemplateId: limpeza-estofados
