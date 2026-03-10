@@ -5,7 +5,7 @@ siteMode: local
 aiProvider: openai
 aiApiKey: ""
 pexelsApiKey: ""
-canonicalUrl: ""
+canonicalUrl: https://limpezaestofadosbauru.com.br
 companyPhone: "14998707313"
 companyWhatsapp: "14998707313"
 generateSitemap: true
