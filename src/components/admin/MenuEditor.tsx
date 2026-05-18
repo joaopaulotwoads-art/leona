@@ -243,7 +243,7 @@ export default function MenuEditor({ initialData }: Props) {
                                         src={data.logoImage || ''}
                                         previewBlobUrl={logoPreviewBlob}
                                         alt="Logo atual"
-                                        className="h-20 w-auto object-contain border border-slate-200 rounded p-2 bg-white"
+                                        className="h-12 w-auto object-contain rounded"
                                         style={{ maxWidth: '200px' }}
                                     />
                                     <div className="flex-1">

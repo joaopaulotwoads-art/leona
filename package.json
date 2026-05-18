@@ -1,7 +1,7 @@
 {
   "name": "cnx",
   "type": "module",
-  "version": "0.0.1",
+  "version": "1.0.22",
   "scripts": {
     "dev": "ulimit -n 65536 2>/dev/null || true; bun run astro dev",
     "prebuild": "bun run scripts/ensure-workflow.ts",
@@ -41,11 +41,13 @@
     "@tiptap/starter-kit": "^3.19.0",
     "@tiptap/suggestion": "^3.19.0",
     "@vercel/blob": "^2.3.0",
+    "adm-zip": "^0.5.16",
     "astro": "^5.17.1",
     "codemirror": "^6.0.2",
     "driver.js": "^1.4.0",
     "fast-xml-parser": "^5.3.5",
     "gray-matter": "^4.0.3",
+    "is-inside-container": "^1.0.0",
     "js-yaml": "^4.1.1",
     "marked": "^17.0.1",
     "react": "^19.2.4",
